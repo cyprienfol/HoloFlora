@@ -30,7 +30,7 @@ Start HoloFlora and enjoy your first mixed reality forest visit!
 Please refer to the descriptions of the user interface in our paper, *"Advancing Forest Biodiversity Visualization through Mixed Reality."*
 
 ## Citation
-
+Cite the Code:[![DOI](https://zenodo.org/badge/881817170.svg)](https://doi.org/10.5281/zenodo.14025501)
 ## Credits
 - [Labelling Flora](https://github.com/cyprienfol/LabellingFlora) - 3D Biodiversity Indicators Segmentation
 - [Pcx - Point Cloud Importer/Renderer for Unity](https://github.com/keijiro/Pcx) - 3D Biodiversity Indicators Visualisation
