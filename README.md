@@ -5,12 +5,11 @@ The **HoloFlora** HoloLens 2 app demonstrates the potential of Mixed Reality in 
 
 <br>Cyprien R. Fol, Jiayan Zhao, Leonhard Spät, Arnadi Murtiyoso, Fabio Remondino, and Verena C. Griess
 <br>(c)2024 ETH Zurich, Cyprien Fol.
-
+---
 ## Description
 This repository contains the official implementation of the methodology presented in *"Advancing Forest Biodiversity Visualization through Mixed Reality,"*
 <br>enabling users to visualize biodiversity indicators, such as tree-related microhabitats, for education, training, and conservation decision-making.
 ---
-
 ## HoloLens 2 Installation
 ### Step 1: Clone the Repository
 Clone this repository to your local machine using the following command:
