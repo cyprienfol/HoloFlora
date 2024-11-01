@@ -6,13 +6,12 @@ Cyprien R. Fol, Jiayan Zhao, Leonhard Spät, Arnadi Murtiyoso, Fabio Remondino, 
 (c)2024 ETH Zurich, Cyprien Fol.
 
 ---
-
 ## Description
 This repository contains the official implementation of the methodology presented in *"Advancing Forest Biodiversity Visualization through Mixed Reality,"* enabling users to visualize biodiversity indicators, such as tree-related microhabitats, for education, training, and conservation decision-making.
 
 ---
-
 ## HoloLens 2 Installation
+
 ### Step 1: Clone the Repository
 Clone this repository to your local machine using the following command:
 
@@ -29,24 +28,24 @@ Head out to the Baden Marteloscope and explore the area until you find tree 241.
 ### Step 4: Start HoloFlora
 Start HoloFlora and enjoy your first mixed reality forest visit!
 
+---
 ### Running HoloFlora
 Please refer to the descriptions of the user interface in our paper, *"Advancing Forest Biodiversity Visualization through Mixed Reality."*
 
-
+---
 ## Citation
 
 ---
-
 ## Credits
 - [Labelling Flora](https://github.com/cyprienfol/LabellingFlora) - 3D Biodiversity Indicators Segmentation
 - [Pcx - Point Cloud Importer/Renderer for Unity](https://github.com/keijiro/Pcx) - 3D Biodiversity Indicators Visualisation
 - [Immersal SDK Hololens 2 Samples](https://github.com/immersal/immersal-sdk-hololens2-samples/) - 3D Biodiversity Indicators Tracking
----  
 
-### Acknowledgment
+---  
+## Acknowledgment
 Acknowledgement to Youyang Hu, Simone Rigon, Normand Overney and Fabio Remondino.
 
-### License
+## License
 This work is licensed under a Creative Commons Attribution 4.0 International license (CC-BY) (as defined in the [LICENSE](LICENSE.md)).
 By downloading and using the code and model you agree to the terms in the [LICENSE](LICENSE.md).
 
