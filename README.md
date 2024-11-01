@@ -36,7 +36,6 @@ Please refer to the descriptions of the user interface in our paper, *"Advancing
 - [Pcx - Point Cloud Importer/Renderer for Unity](https://github.com/keijiro/Pcx) - 3D Biodiversity Indicators Visualisation
 - [Immersal SDK Hololens 2 Samples](https://github.com/immersal/immersal-sdk-hololens2-samples/) - 3D Biodiversity Indicators Tracking
 
----  
 ## Acknowledgment
 Acknowledgement to Youyang Hu, Simone Rigon, Normand Overney and Fabio Remondino.
 
