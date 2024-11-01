@@ -40,7 +40,7 @@ Please refer to the descriptions of the user interface in our paper, *"Advancing
 Acknowledgement to Youyang Hu, Simone Rigon, Normand Overney and Fabio Remondino.
 
 ## License
-Copyright (c) 2024 ETH Zurich, Cyprien R. Fol. All rights reserved. Licensed under the MIT license.
+Copyright (c) 2024 ETH Zurich, Cyprien R. Fol. All rights reserved. Licensed under the [MIT license](LICENSE.md).
 
 
 
