@@ -40,8 +40,7 @@ Please refer to the descriptions of the user interface in our paper, *"Advancing
 Acknowledgement to Youyang Hu, Simone Rigon, Normand Overney and Fabio Remondino.
 
 ## License
-This work is licensed under a Creative Commons Attribution 4.0 International license (CC-BY) (as defined in the [LICENSE](LICENSE.md)).
-By downloading and using the code and model you agree to the terms in the [LICENSE](LICENSE.md).
+Copyright (c) 2024 ETH Zurich, Cyprien R. Fol. All rights reserved. Licensed under the MIT license.
 
 
 
