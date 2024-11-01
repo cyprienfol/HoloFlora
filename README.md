@@ -1,6 +1,6 @@
 # HoloFlora
 ## Introduction
-![Image1](Images/im1.png)
+![Image1](Images/img1.png)
 The **HoloFlora** HoloLens 2 app demonstrates the potential of Mixed Reality in forest environments.
 
 <br>Cyprien R. Fol, Jiayan Zhao, Leonhard Spät, Arnadi Murtiyoso, Fabio Remondino, and Verena C. Griess
